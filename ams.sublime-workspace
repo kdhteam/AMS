@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"Action"
+			],
+			[
+				"O",
+				"Off"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/hofanghari/Documents/WebGPIO/loop.py",
+			"settings":
+			{
+				"buffer_size": 357,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 39,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hofanghari/Documents/WebGPIO/backend.py",
+			"settings":
+			{
+				"buffer_size": 3064,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hofanghari/Documents/Adruno/main.ino",
+			"settings":
+			{
+				"buffer_size": 6935,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "mai"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nDeviot (Arduino IDE)\n--------------------\n\n  '########::'########:'##::::'##:'####::'#######::'########:\n   ##.... ##: ##.....:: ##:::: ##:. ##::'##.... ##:... ##..::\n   ##:::: ##: ##::::::: ##:::: ##:: ##:: ##:::: ##:::: ##::::\n   ##:::: ##: ######::: ##:::: ##:: ##:: ##:::: ##:::: ##::::\n   ##:::: ##: ##...::::. ##:: ##::: ##:: ##:::: ##:::: ##::::\n   ##:::: ##: ##::::::::. ## ##:::: ##:: ##:::: ##:::: ##::::\n   ########:: ########:::. ###::::'####:. #######::::: ##::::\n  ........:::........:::::...:::::....:::.......::::::..:::::\n  \n  Sublime Text plugin for IoT development\n  \n  **IMPORTANT!**\n  \n  - This plugin requires **Python 2** \n  \n  If after installing python2 you experience any problems, go to `Deviot Menu > Options > Remove Preferences File` and restart Sublime Text\n  \n  If you keep having problems, please submit an issue explaining your problem [here](https://github.com/gepd/Deviot/issues/new)\n  \n  --------------------------------\n  \n  **¡IMPORTANTE!**\n      \n  - Este plugin requiere **Python 2**\n  \n  Si después de instalar python experimentas algún problema, anda a Menu `Deviot > Opciones > Eliminar Archivos de Prefencias` y reinicia Sublime Text.\n  \n  Si continúas con problemas, por favor escríbenos sobre tu problema [aqui](https://github.com/gepd/Deviot/issues/new)\n",
+			"settings":
+			{
+				"buffer_size": 1353,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pep",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hofanghari/Documents",
+		"/home/hofanghari/Documents/Adruno"
+	],
+	"file_history":
+	[
+		"/home/hofanghari/Documents/auto-pump/autorun.py",
+		"/home/hofanghari/Documents/WebGPIO/lib/appliance.py",
+		"/home/hofanghari/Documents/WebGPIO/lib/setup.py",
+		"/home/hofanghari/Documents/WebGPIO/lib/GPIOSetup.py",
+		"/home/hofanghari/Documents/WebGPIO/config.yml",
+		"/home/hofanghari/Documents/WebGPIO/auto.py",
+		"/home/hofanghari/Documents/WebGPIO/backend.py",
+		"/home/hofanghari/Documents/WebGPIO/autostart.sh"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/hofanghari/Documents/WebGPIO/loop.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/hofanghari/Documents/WebGPIO/backend.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/hofanghari/Documents/Adruno/main.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "mai",
+							"spell_check": true,
+							"syntax": "Packages/Deviot (Arduino IDE)/deviot.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								71
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 120.0
+	},
+	"output.deviot":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 120.0
+	},
+	"output.stino_panel":
+	{
+		"height": 241.0
+	},
+	"pinned_build_system": "",
+	"project": "ams.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
